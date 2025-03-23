@@ -9,7 +9,7 @@ st.markdown("""
 ## welcome to the unlimate password strenght cheaker!👋
 use this simple tool to check the strenght of your password and get suggestions on how to make it stronger.
             we will give you helpful tips to create a *strong Password* 🔒""")
-st.markdown('<h1 style="color:green">Devan Das Mehrani AI Student</h1>' , unsafe_allow_html=True)
+st.markdown('<h1 style="color:green">SABA NAZ AI Student</h1>' , unsafe_allow_html=True)
 password = st.text_input("enter your passord", type="password")
 
 feedback =[]
